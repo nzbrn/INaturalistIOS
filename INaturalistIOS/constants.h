@@ -29,7 +29,7 @@
     #define INatMediaBaseURL @"https://www.inaturalist.org"
 
     // base URL for all website requests
-    #define INatWebBaseURL @"http://www.inaturalist.org"
+    #define INatWebBaseURL @"http://naturewatch.org.nz"
 #endif
 
 #endif

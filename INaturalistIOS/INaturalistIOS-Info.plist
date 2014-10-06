@@ -34,7 +34,7 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.inaturalist.inaturalist</string>
+	<string>nz.org.naturewatch</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -67,7 +67,7 @@
 	<key>CFBundleVersion</key>
 	<string>46</string>
 	<key>FacebookAppID</key>
-	<string>26558815027</string>
+	<string>434330313273115</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>

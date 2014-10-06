@@ -36,7 +36,7 @@
 "718-d6-pVr.text" = "Username";
 
 /* Class = "IBUITextField"; placeholder = "Your iNat username"; ObjectID = "7ua-fh-uvU"; */
-"7ua-fh-uvU.placeholder" = "Your iNat username";
+"7ua-fh-uvU.placeholder" = "Your NWNZ username";
 
 /* Class = "IBUITableViewSection"; headerTitle = "What did you see?"; ObjectID = "9br-9C-J7v"; */
 "9br-9C-J7v.headerTitle" = "What did you see?";
@@ -45,7 +45,7 @@
 "AWa-0U-YdH.text" = "Attribution";
 
 /* Class = "IBUITextField"; placeholder = "Your iNat password"; ObjectID = "AeG-t0-DTD"; */
-"AeG-t0-DTD.placeholder" = "Your iNat password";
+"AeG-t0-DTD.placeholder" = "Your NWNZ password";
 
 /* Class = "IBUILabel"; text = "Detail"; ObjectID = "AiV-F7-sFl"; */
 "AiV-F7-sFl.text" = "Detail";
@@ -246,7 +246,7 @@
 "hKK-sS-qAN.title" = "Cancel";
 
 /* Class = "IBUIButton"; normalTitle = "View on iNaturalist"; ObjectID = "hX2-Qg-qfb"; */
-"hX2-Qg-qfb.normalTitle" = "View on iNaturalist";
+"hX2-Qg-qfb.normalTitle" = "View on NatureWatchNZ";
 
 /* Class = "IBUILabel"; text = "Sign in"; ObjectID = "hfA-vB-13u"; */
 "hfA-vB-13u.text" = "Sign in";
@@ -276,7 +276,7 @@
 "mgd-CX-pVK.title" = "Done";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Your iNaturalist Account"; ObjectID = "oWq-bA-sYY"; */
-"oWq-bA-sYY.headerTitle" = "Your iNaturalist Account";
+"oWq-bA-sYY.headerTitle" = "Your NatureWatchNZ Account";
 
 /* Class = "IBUILabel"; text = "Sign in with Google"; ObjectID = "ohk-ES-lZM"; */
 "ohk-ES-lZM.text" = "Sign in with Google";
@@ -309,7 +309,7 @@
 "s0d-iz-ydn.title" = "Observations";
 
 /* Class = "IBUITableViewSection"; headerTitle = "Sign in to iNaturalist.org"; ObjectID = "tW8-NR-sj7"; */
-"tW8-NR-sj7.headerTitle" = "Sign in to iNaturalist.org";
+"tW8-NR-sj7.headerTitle" = "Sign in to Naturewatchnz.org";
 
 /* Class = "IBUIBarButtonItem"; title = "Log in"; ObjectID = "tiA-DP-jEV"; */
 "tiA-DP-jEV.title" = "Log in";

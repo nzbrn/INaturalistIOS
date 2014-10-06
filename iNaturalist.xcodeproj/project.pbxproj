@@ -1790,6 +1790,11 @@
 			attributes = {
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = iNaturalist;
+				TargetAttributes = {
+					1927513214E9CCC9000ABAC4 = {
+						DevelopmentTeam = 3A72HL3YH7;
+					};
+				};
 			};
 			buildConfigurationList = 1927512D14E9CCC8000ABAC4 /* Build configuration list for PBXProject "iNaturalist" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -2393,6 +2398,8 @@
 		1927515214E9CCC9000ABAC4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Vendor/Facebook/build\"",
@@ -2421,6 +2428,7 @@
 					"-lsqlite3.0",
 				);
 				PRODUCT_NAME = iNaturalist;
+				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos6.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "\"$(SOURCE_ROOT)/Vendor/tapkulibrary/src\" \"$(SOURCE_ROOT)/Vendor/RestKit/Build\" \"$(BUILT_PRODUCTS_DIR)/../three20\" \"$(BUILT_PRODUCTS_DIR)/../../three20\" \"$(SOURCE_ROOT)/Vendor/DCRoundSwitch/DCRoundSwitch\"";
@@ -2432,8 +2440,8 @@
 		1927515314E9CCC9000ABAC4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/Vendor/Facebook/build\"",
