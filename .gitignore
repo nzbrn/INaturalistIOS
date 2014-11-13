@@ -1,4 +1,4 @@
 *.DS_Store
 INaturalist.xcodeproj/project.xcworkspace
 INaturalist.xcodeproj/xcuserdata
-INaturalistIOS/config.h
+config.h
